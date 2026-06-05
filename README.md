@@ -22,47 +22,6 @@ Analyze DNS traffic to:
 * Detect suspicious DNS activity
 * Investigate potential threats
 
-### 3. FTP Log Analysis
-
-Analyze FTP logs to:
-
-* Monitor file transfer activity
-* Track user actions
-* Detect unusual behavior
-* Identify suspicious access attempts
-
-### 4. HTTP Log Analysis
-
-Analyze web traffic to:
-
-* Monitor HTTP requests
-* Identify popular resources
-* Detect abnormal traffic patterns
-* Investigate web-based threats
-
-### 5. Tunnel Log Analysis
-
-Analyze Zeek tunnel logs to:
-
-* Monitor tunnel traffic
-* Identify unusual connections
-* Detect suspicious tunneling activity
-
-### 6. SMTP Log Analysis
-
-Analyze email logs to:
-
-* Monitor email traffic
-* Track senders and recipients
-* Detect suspicious email activity
-
-### 7. DHCP Log Analysis
-
-Analyze DHCP logs to:
-
-* Track IP address assignments
-* Monitor lease activity
-* Identify unusual network behavior
 
 ## Tools Used
 
